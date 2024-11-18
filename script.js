@@ -30,7 +30,7 @@ $(document).ready(function () {
     });
   
     var typed = new Typed(".typing", {
-      strings: ["Software Engineer", "Backend Developer", "Frontend Developer", "Product Manager"],
+      strings: [ "Product Manager", "Software Engineer", "Backend Developer", "Frontend Developer"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
